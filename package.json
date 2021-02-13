@@ -1,0 +1,21 @@
+{
+  "name": "gas",
+  "version": "1.0.0",
+  "description": "GAS test project",
+  "main": "index.js",
+  "dependencies": {
+    "@google/clasp": "^2.3.0",
+    "google-auth-library": "^7.0.2",
+    "google-p12-pem": "^3.0.3",
+    "googleapis": "^67.0.0",
+    "gtoken": "^5.2.1",
+    "npm-check-updates": "^11.1.1",
+    "node-forge": "^0.10.0"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.24"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
