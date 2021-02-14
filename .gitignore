@@ -3,3 +3,5 @@ node_modules
 .cache
 .gnupg
 .vscode-server
+.clasprc.json
+.bash_history
