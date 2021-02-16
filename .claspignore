@@ -1,5 +1,3 @@
 **/**
 !appsscript.json
 !main.ts
-.cache/**
-node_modules/**
